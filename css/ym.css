@@ -1,0 +1,125 @@
+body {
+	padding-top: 90px;
+	font-family: 'Fira Sans', Helvetica;
+	font-weight: 300;
+	line-height: 1.7;
+}
+
+.transparent {
+}
+
+.top-container {
+}
+
+.logo-text {
+	font-size: 3.90em;
+	margin-bottom: 0;
+	padding-bottom: 0;
+}
+
+.resume h2, .new-section h2 {
+	font-size: 1.0em;
+	font-weight: 600;
+	letter-spacing: 0.05em;
+	color: #999;
+	text-transform: uppercase;
+}
+
+.new-section h2 {
+}
+
+.anchor {
+	padding-top: 70px;
+	cursor: normal;
+	color: #333;
+	text-decoration: none;
+}
+
+.anchor:hover {
+	color: #333;
+	text-decoration: none;
+}
+
+.subhead {
+	font-size: 0.9em;
+	font-weight: 300;
+	color: #999;
+	text-transform: uppercase;
+}
+
+.subhead-strong {
+	font-size: 0.9em;
+	font-weight: 300;
+	text-transform: uppercase;	
+}
+
+.writing-list li a {
+	font-size: 0.9em;
+	font-weight: 300;
+	text-transform: uppercase;
+
+}
+
+.writing-list a:hover {
+}
+
+.branding-font {
+	font-family: 'Karma', serif;
+	font-weight: 300;
+}
+
+.subline {
+	font-weight: 600;
+	font-size: 1.4em;
+	color: #999;
+	padding-bottom: 14px;
+}
+
+.navbar {
+	background: white;
+	height: 40px;
+}
+
+.navbar-collapse.in {
+	background-color: white;
+}
+.new-section {
+	margin-top: 18px;
+}
+
+.logos .col-md-2 {
+	padding: 0;
+	padding-left: 15px;
+}
+
+.section-logo {
+	font-family: 'Karma', serif;
+	font-weight: 600;
+	font-size: 1.8em;
+	margin-bottom: 25px;
+	border-bottom: 6px solid #eee;
+	display: inline-block;
+}
+
+.navbar-brand {
+	font-family: 'Raleway';
+	font-size: 1.2em;
+	font-weight: 700;
+	color: black !important;
+}
+
+.navbar-nav {
+	font-size: 1.2em;
+}
+
+p, ul {
+	font-size: 1.1em;
+}
+
+.new-section li {
+	margin-bottom: 9px;
+}
+
+p strong {
+	font-weight: 500;
+}
